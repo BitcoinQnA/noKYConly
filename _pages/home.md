@@ -72,25 +72,25 @@ Thankfully there are some options out there to purchase Bitcoin via no KYC sourc
 
 * [**Hodl Hodl**](https://hodlhodl.com/) 
 
-<img src="https://raw.githubusercontent.com/BitcoinQnA/noKYConlynew/master/images/HH.jpg" class=responsive width="250" height="250" maxheight="250">
+<img src="https://raw.githubusercontent.com/BitcoinQnA/noKYConly/master/images/HH.jpg" class=responsive width="250" height="250" maxheight="250">
 
 <br/>
 
 * [**Bisq**](https://bisq.network)
 
-<img src="https://raw.githubusercontent.com/BitcoinQnA/noKYConlynew/master/images/bisq.png" class=responsive width="350" height="150" maxheight="150">
+<img src="https://raw.githubusercontent.com/BitcoinQnA/noKYConly/master/images/bisq.png" class=responsive width="350" height="150" maxheight="150">
 
 <br/>
 
 * [**LocalCryptos**](https://localcryptos.com/)
 
-<img src="https://raw.githubusercontent.com/BitcoinQnA/noKYConlynew/master/images/LocalCrypto.png" class=responsive width="350" height="150" maxheight="150">
+<img src="https://raw.githubusercontent.com/BitcoinQnA/noKYConly/master/images/LocalCrypto.png" class=responsive width="350" height="150" maxheight="150">
 
 <br/>
 
 * [**Local Coin Swap**](https://localcoinswap.com/)
 
-<img src="https://raw.githubusercontent.com/BitcoinQnA/noKYConlynew/master/images/LCS.png" class=responsive width="350" height="120" maxheight="120">
+<img src="https://raw.githubusercontent.com/BitcoinQnA/noKYConly/master/images/LCS.png" class=responsive width="350" height="120" maxheight="120">
 
 <br/>
 
@@ -165,7 +165,7 @@ You should also consider coinjoining your KYC stack. This will not erase your KY
 
 ### no-KYC only.
 
-<img src="https://raw.githubusercontent.com/BitcoinQnA/noKYConlynew/master/images/Logo.png" class=responsive width="250" height="250" maxheight="250">
+<img src="https://raw.githubusercontent.com/BitcoinQnA/noKYConly/master/images/Logo.png" class=responsive width="250" height="250" maxheight="250">
 
 ***
 
