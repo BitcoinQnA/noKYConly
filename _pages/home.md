@@ -147,7 +147,7 @@ You should also consider coinjoining your KYC stack. This will not erase your KY
 
 ### no-KYC only.
 
-<img src="https://raw.githubusercontent.com/BitcoinQnA/noKYConly/master/images/logo-dark.png" class=responsive width="250" height="250" maxheight="250">
+<img src="https://raw.githubusercontent.com/BitcoinQnA/noKYConly/master/images/logo%20dark.png" class=responsive width="250" height="250" maxheight="250">
 
 ***
 
