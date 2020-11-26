@@ -127,7 +127,7 @@ This is where an exchange offers account signup without KYC and subsequently req
 ***
 
 ## Can I un-KYC myself?
-Once you have purchased Bitcoin from a KYC source you can **never** undo that. Not even with advanced techniques like Coinjoin that create forward looking privacy. You have two main options...
+Once you have purchased Bitcoin from a KYC source you can **never** undo that. Not even with advanced techniques like Coinjoin that create forward looking privacy. You have three main options...
 
 ### Go back out the way you came and start fresh
 Sell your KYC bought coins back at the exchange you bought them from. Depending on your jurisdiction, this will likely create a taxable event that you will need to contend with but you will then have a paper trail to prove you no longer own those coins. This process provides you with a 'clean start' from which you can begin obtaining bitcoin via a non-KYC source, safe in the knowledge that you are no longer at vulnerable to the risks outlined above (apart from the data leaks as the regulated entities are required by law to hold these records for a while).
@@ -136,6 +136,10 @@ Sell your KYC bought coins back at the exchange you bought them from. Depending 
 Cease purchasing bitcoin via KYC sources immediately and completely segregate and label those funds. Start obtaining bitcoin via a non-KYC source, ensuring you maintain complete segregation. This option still leaves you vulnerable to some of the risks outlined above but may be more paletable for those with smaller KYC amounts or those not wanting to sell and deal with taxable events.
 
 You should also consider coinjoining your KYC stack. This will not erase your KYC history but it would give forward looking privacy for future transactions. Whirlpool is by far the easiest and most effective coinjoin implementation, learn more [here](https://www.bitcoinqna.com/post/whirlpool-faq).
+
+### Move jurisdictions
+This is more on the extreme end of the spectrum, but moving jurisdictions could be an option to free you from future obligations. Of course this is not a 100% guarantee as certain jurisdictions may have information sharing agreements (the EU for example).
+
 
 <br/>
 
