@@ -76,7 +76,7 @@ Thankfully there are some options out there to purchase Bitcoin via no KYC sourc
 * [**Local Coin Swap**](https://localcoinswap.com/)
 
 
-You can find more at [KYC, not me!](http://kycnot.me)
+You can find more at [KYC, not me!](http://kycnot.me) and [here](https://github.com/cointastical/P2P-Trading-Exchanges/)
 
 <br/>
 
