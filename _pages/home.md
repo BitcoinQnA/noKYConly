@@ -115,7 +115,7 @@ There are a number of ways, each with varying levels of difficulty and complexit
 * Buy it from a friend or at a local meetup 
 * Provide value to others and have a [donations](https://btcpayjungle.com/apps/3CJnSM5L77XEurAMxdP9aZrEnu13/pos) page
 * Pay for dinner when out with friends and ask them to reimburse you via bitcoin (perhaps for a slight discount?)
-* Mine it (check out [this](https://keybase.pub/diverterbtc/Mining%20for%20the%20Streets.pdf) great piece on garage mining)
+* Mine it (check out [this](https://diverter.hostyourown.tools/mining-for-the-streets/) great piece on garage mining)
 
 <br/>
 
